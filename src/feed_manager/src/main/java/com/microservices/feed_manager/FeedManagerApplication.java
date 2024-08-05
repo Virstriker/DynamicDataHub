@@ -1,13 +1,13 @@
-package com.microservices.dynmic_data_hub;
+package com.microservices.feed_manager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DynmicDataHubApplication {
+public class FeedManagerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DynmicDataHubApplication.class, args);
+		SpringApplication.run(FeedManagerApplication.class, args);
 	}
 
 }

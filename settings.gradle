@@ -1,1 +1,4 @@
-rootProject.name = 'dynmic_data_hub'
+include "src"
+include "src:feed_manager"
+include "src:scheduler"
+
